@@ -48,4 +48,4 @@
 
 * [质量管理](quality.html)
 * [库存调拨](inventory.html#库存调拨)
-* [其他操作]()
+* [其他操作](other-operate-one.html)

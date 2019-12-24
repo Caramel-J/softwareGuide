@@ -28,6 +28,11 @@ module.exports = {
 				   title: '模块描述',
 				   collapsable: false,
 				   children: ['base-config','base-business','document-review','purchase','inventory','sale','quality']
+			   },
+			   {
+				   title: '其他描述',
+				   collapsable: false,
+				   children: ['other-operate-one']
 			   }
 		   ]
 	   },
