@@ -33,8 +33,8 @@
 #### 采购入库
 
 * [采购订单](purchase.html#采购下单) ：填写采购订单
-* [验收订单](README.md) ：验收采购的产品，查看产品包装等
-* [入库订单](README.md) ：分配入库
+* [验收订单](inventory.html#质量验收) ：验收采购的产品，查看产品包装等
+* [入库订单](inventory.html#待分配管理) ：分配入库
 
 <img src="\saleSimple.png" alt="简单销售流程图" style="text-align:center; margin:20px auto;" />
 

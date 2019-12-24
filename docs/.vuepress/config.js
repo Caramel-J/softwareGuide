@@ -27,7 +27,7 @@ module.exports = {
 			   {
 				   title: '模块描述',
 				   collapsable: false,
-				   children: ['base-config','base-business','document-review','purchase']
+				   children: ['base-config','base-business','document-review','purchase','inventory']
 			   }
 		   ]
 	   },
