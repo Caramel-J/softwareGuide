@@ -15,7 +15,7 @@ module.exports = {
         nav:[ // 导航栏配置
             {text: '风眼官网', link: '/accumulate/' },
             {text: '微博', link: 'https://baidu.com'},
-	        {text: '产品入口', link: 'http://192.168.0.105'}
+	        {text: '产品入口', link: 'http://www.iestorm.com.cn:8080/'}
         ],
        sidebar: {
 		   "/guide/" : [
@@ -44,6 +44,7 @@ module.exports = {
 	   editLinkText: '在GitHub上编辑此页面',
 	   lastUpdated: '上次更新'
     },
+	dest: '/fy-help',
 	plugins: [
 	    ['container', {
 		  type: 'structure',
